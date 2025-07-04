@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import json
+import os
 from logic.diagnose import diagnose_condition
 
 app = Flask(__name__)
@@ -51,5 +52,8 @@ def next_question():
 
     next_q = questions[session["question_index"]]
     return jsonify({"question": next_q})
+
+# ✅ Required for Render: dynamic host & port
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(debug=True, host='0.0.0.0', port=port)
