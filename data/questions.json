@@ -1,0 +1,65 @@
+{
+  "knee": [
+    "Did you injure your knee recently?",
+    "Is it swollen?",
+    "Do you feel pain while walking?",
+    "Did you hear any popping sound when it started hurting?",
+    "Is it stiff in the morning?"
+  ],
+  "chest": [
+    "Is the pain sharp or dull?",
+    "Does it spread to your arm or back?",
+    "Do you feel breathless?",
+    "Did it start after exercise or stress?",
+    "Have you had acidity recently?"
+  ],
+  "back": [
+    "Is your back pain constant or does it come and go?",
+    "Did you lift something heavy recently?",
+    "Does it hurt more when bending?",
+    "Does the pain spread to your legs?",
+    "Do you feel stiffness in the morning?"
+  ],
+  "foot": [
+    "Is there swelling in the foot?",
+    "Did you twist or injure your foot?",
+    "Do you feel pain while standing?",
+    "Is there any redness or warmth?",
+    "Do you wear tight shoes?"
+  ],
+  "thigh": [
+    "Did you experience a recent strain or pull?",
+    "Is the pain on the front or back of the thigh?",
+    "Do you feel pain while walking or climbing stairs?",
+    "Is there bruising?",
+    "Does resting help reduce the pain?"
+  ],
+  "butt": [
+    "Is the pain more on one side?",
+    "Do you feel numbness or tingling down the leg?",
+    "Does sitting make it worse?",
+    "Did it start after exercise or injury?",
+    "Does stretching relieve the pain?"
+  ],
+  "stomach": [
+    "Is the pain localized or spread across the abdomen?",
+    "Do you feel nauseous?",
+    "Have you had recent indigestion?",
+    "Is there any bloating?",
+    "Does eating affect the pain?"
+  ],
+  "pelvis": [
+    "Is the pain sharp or dull?",
+    "Does it hurt while walking?",
+    "Do you feel pressure in the lower abdomen?",
+    "Is the pain on one or both sides?",
+    "Is there any urinary discomfort?"
+  ],
+  "head": [
+    "Is it a sharp or throbbing pain?",
+    "Do you feel dizzy?",
+    "Is it localized or all over?",
+    "Does light or sound make it worse?",
+    "Have you had headaches like this before?"
+  ]
+}
