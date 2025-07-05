@@ -61,5 +61,40 @@
     "Is it localized or all over?",
     "Does light or sound make it worse?",
     "Have you had headaches like this before?"
+  ],
+  "neck": [
+    "Do you feel stiffness in the neck?",
+    "Does turning your head increase the pain?",
+    "Did it start after sleeping in a bad position?",
+    "Do you have any numbness in arms?",
+    "Is there any swelling or tenderness?"
+  ],
+  "shoulder": [
+    "Did you lift anything heavy recently?",
+    "Do you feel pain while raising your arm?",
+    "Is the pain sharp or dull?",
+    "Is there any swelling or redness?",
+    "Do you feel weakness in the shoulder?"
+  ],
+  "elbow": [
+    "Is the pain on the inside or outside of the elbow?",
+    "Did you play sports or strain your arm recently?",
+    "Do you feel weakness when gripping things?",
+    "Is the area swollen or tender?",
+    "Does resting reduce the pain?"
+  ],
+  "hand": [
+    "Is your hand swollen?",
+    "Do you feel pain while holding objects?",
+    "Is there any tingling or numbness?",
+    "Did you injure or overuse your hand recently?",
+    "Can you move your fingers freely?"
+  ],
+  "leg": [
+    "Is the leg pain constant or comes and goes?",
+    "Do you feel cramps or tightness?",
+    "Did you overexert your leg recently?",
+    "Is there any visible bruising or swelling?",
+    "Does rest or elevation help?"
   ]
 }
