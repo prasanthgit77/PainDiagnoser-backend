@@ -17,10 +17,12 @@ npm install
 ### Running the project
 1. Start the backend server:
    - Navigate to the backend directory and run:
+   - ``` bash
      python app.py
 
 2. Start the frontend development server:
    - Navigate to the frontend directory and run:
+   - ``` bash
      npm start
 
 The application will open in your browser, and you can interact with the 3D human model and AI-based pain diagnosis system.
